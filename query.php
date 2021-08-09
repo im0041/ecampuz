@@ -1,0 +1,1 @@
+SELECT mhs_nama FROM tb_mahasiswa.nama WHERE tb_matakuliah.mk_kode = 303 ORDER BY tb_mahasiswa_nilai DESC LIMIT 1;
